@@ -1,17 +1,14 @@
-## boa vindas ao meu perfil👋
+## boa vindas ao meu perfil 🏁
 ![](link)
 
 
-**antonelli123gamer/antonelli123gamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é **Geazi matheus Antonelli de Sousa Borges**;
+- Meu nome é um pouco cumprido e amo ele, não sei se você vai gostar, mais espero🫀;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🔭 Estou estudando e aprendendo na Alura;
+- 🌱 Estou também ultilizando essa plataforma na linguagem Javascript;
+- 🪗 Também como curiosidade amo estudar musica, como (Rob);
+- 💟 E esstou me familhariezando com esse tipo de linguagem;
+- 🤗 Ultilizo esse determinado espaço pra a organização e cpmpartilhamendo de determinados progetos;
+- ### você também pode entrar em contato ou até me seguir pelo meu istagram;
+- @geazi.b8;
